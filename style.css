@@ -1,0 +1,35 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #b11032;
+    color: whitesmoke;
+}
+
+h1{
+    margin-bottom: 50px;
+}
+
+.timeline {
+    margin-bottom: 30px;
+}
+
+.card{
+    background: #b11032;
+    box-shadow:  20px 20px 60px #960e2b,
+     -20px -20px 60px #cc123a;
+}
+
+.btn_play{
+    background-color: #cc123a;
+    border-color: #b11032;
+    color: whitesmoke;
+}
+
+.btn_reverse{
+    background-color: #cc123a;
+    border-color: #b11032;
+    color: whitesmoke;
+}
